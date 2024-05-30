@@ -48,7 +48,8 @@
           "mainContentHeader": "Your device will restart during this update",
           "subHeader": "Updates can take around 30 minutes to complete",
           "actionButtonText": "Update Device",
-          "mainContentText": "A fully up-to-date device is required to ensure that BriteTech and Security can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks, including but not limited to Okta and Slack.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If your Mac reports that there are no updates available, restart your computer and try again.",          "customDeferralButtonText": "Custom",
+          "mainContentText": "A fully up-to-date device is required to ensure that BriteTech and Security can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks, including but not limited to Okta and Slack.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If your Mac reports that there are no updates available, restart your computer and try again.",          
+          "customDeferralButtonText": "Custom",
           "informationButtonText": "More Info",
           "mainContentNote": "Important Notes: please save all your work before starting the update",
           "mainContentSubHeader": "Updates can take around 30 minutes to complete",
@@ -59,4 +60,4 @@
         }
       ]
     }
-  }
+  }"mainContentText": "A fully up-to-date device is required to ensure that BriteTech and Security can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks, including but not limited to Okta and Slack.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If your Mac reports that there are no updates available, restart your computer and try again.",
