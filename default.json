@@ -14,7 +14,7 @@
             "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
           }
         ],
-        "requiredInstallationDate": "2024-04-30T14:00:00Z",
+        "requiredInstallationDate": "2024-05-31T14:00:00Z",
         "requiredMinimumOSVersion": "14.4.1",
         "targetedOSVersionsRule": "default"
       }
@@ -47,8 +47,8 @@
           "mainHeader": "There is a critical security update available",
           "mainContentHeader": "Your device will restart during this update",
           "subHeader": "Updates can take around 30 minutes to complete",
-          "actionButtonText": "Update Device",
-          "mainContentText": "A fully up-to-date device is required to ensure that BriteTech and Security can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks, including but not limited to Okta and Slack.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If your Mac reports that there are no updates available, restart your computer and try again.",
+          "actionButtonText": "Update Device",          "mainContentText": "Security is of paramount importance in the Briteland, and with this in mind, Britetech have identified this Mac as not yet updated to the current and correct version of the macOS operating system.\n\nThis Mac must be updated to the current version to ensure that our IT infrastructure and security protocols are adhered to.
+          Updating should take no more than 30 minutes (likely much less) and will not affect any of your data or settings in any way.\n\nYou will have a maximum of 3 deferral possibilities to delay the updating of macOS on this device. After the 3rd deferral period, an update will be enforced by Britetech, and your device will update itself and restart.\n\nAn alternate option is to defer the update, and then at the end of your business day, or during your lunch period, you can update macOS manually, which only takes a few clicks:\n\n1. Save all your work, and close all open windows.\n\n2. Navigate to System Settings (via the Finder window or by clicking the apple icon at the top left of your screen).\n\n3. In System Settings, navigate to General > Software Update and click on ‘Update Now’, and your device will update itself to the latest version (including a restart).\n\nThank you for your time and help in ensuring that the Britespace remains at its most secure.",
           "customDeferralButtonText": "Custom",
           "informationButtonText": "More Info",
           "mainContentNote": "Important Notes: please save all your work before starting the update",
