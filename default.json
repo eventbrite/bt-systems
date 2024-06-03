@@ -4,7 +4,9 @@
       "acceptableScreenSharingUsage": true,
       "aggressiveUserExperience": false,
       "aggressiveUserFullScreenExperience": false,
-      "enforceMinorUpdates": true
+      "enforceMinorUpdates": true,
+      "attemptToFetchMajorUpgrade": false,
+      "disableSoftwareUpdateWorkflow": true
     },
     "osVersionRequirements": [
       {
