@@ -2,7 +2,7 @@
     "optionalFeatures": {
       "acceptableCameraUsage": true,
       "acceptableScreenSharingUsage": true,
-      "aggressiveUserExperience": false,
+      "aggressiveUserExperience": true,
       "aggressiveUserFullScreenExperience": false,
       "enforceMinorUpdates": true,
       "attemptToFetchMajorUpgrade": false,
@@ -16,7 +16,7 @@
             "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
           }
         ],
-        "requiredInstallationDate": "2024-06-27T09:30:00Z",
+        "requiredInstallationDate": "2024-07-01T16:30:00Z",
         "requiredMinimumOSVersion": "14.5",
         "targetedOSVersionsRule": "default"
       }
@@ -30,7 +30,7 @@
       "gracePeriodInstallDelay": 23,
       "gracePeriodLaunchDelay": 23,
       "gracePeriodPath": "/private/var/db/.AppleSetupDone",
-      "imminentRefreshCycle": 3600,
+      "imminentRefreshCycle": 2700,
       "imminentWindowTime": 24,
       "initialRefreshCycle": 18000
     },
