@@ -6,18 +6,19 @@
       "aggressiveUserFullScreenExperience": true,
       "enforceMinorUpdates": true,
       "attemptToFetchMajorUpgrade": false,
-      "disableSoftwareUpdateWorkflow": true
+      "disableSoftwareUpdateWorkflow": true,
+      "utilizeSOFAFeed": true
     },
     "osVersionRequirements": [
       {
         "aboutUpdateURLs": [
           {
             "_language": "en",
-            "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
+            "aboutUpdateURL": "https://support.apple.com/en-gb/HT214119"
           }
         ],
-        "requiredInstallationDate": "2024-06-14T16:00:00Z",
-        "requiredMinimumOSVersion": "14.99",
+        "requiredInstallationDate": "2024-07-31T16:00:00Z",
+        "requiredMinimumOSVersion": "14.6",
         "targetedOSVersionsRule": "default"
       }
     ],
@@ -43,18 +44,19 @@
       "showDeferralCount": true,
       "simpleMode": false,
       "singleQuitButton": true,
+      "showRequiredInstallationDate": true,
       "updateElements": [
         {
           "_language": "en_US",
-          "mainHeader": "Upgrade to macOS 14 Sonoma",
+          "mainHeader": "Update to macOS 14.6 Sonoma",
           "mainContentHeader": "Your device will restart during this update",
           "subHeader": "Kindly scroll down to view the complete steps and description",
-          "actionButtonText": "Upgrade Device",
+          "actionButtonText": "Update Device",
           "mainContentText": "Security is of paramount importance in the Briteland, and with this in mind, Britetech have identified this Mac as not yet updated to the current and correct version of the macOS operating system.\n\nThis Mac must be updated to the current version to ensure that our IT infrastructure and security protocols are adhered to.\nUpdating should take no more than 30 minutes (likely much less) and will not affect any of your data or settings in any way.\n\nYou will have a maximum of 3 deferral possibilities to delay the updating of macOS on this device. After the 3rd deferral period, an update will be enforced by Britetech, and your device will update itself and restart.\n\nAn alternate option is to defer the update, and then at the end of your business day, or during your lunch period, you can update macOS manually, which only takes a few clicks:\n\n1. Save all your work, and close all open windows.\n2. Navigate to System Settings (via the Finder window or by clicking the apple icon at the top left of your screen).\n3. In System Settings, navigate to General > Software Update and click on ‘Update Now’, and your device will update itself to the latest version (including a restart).\n\nThank you for your time and help in ensuring that the Britespace remains at its most secure.",
           "customDeferralButtonText": "Custom",
           "informationButtonText": "More Info",
           "mainContentNote": "Important Notes: please save all your work before starting the update",
-          "mainContentSubHeader": "Updates can take around 45 minutes to complete",
+          "mainContentSubHeader": "Updates can take around 25 minutes to complete",
           "primaryQuitButtonText": "Later",
           "secondaryQuitButtonText": "I understand",
           "oneHourDeferralButtonText": "One Hour",
