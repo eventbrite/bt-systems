@@ -6,19 +6,19 @@
       "aggressiveUserFullScreenExperience": false,
       "enforceMinorUpdates": true,
       "attemptToFetchMajorUpgrade": false,
-      "disableSoftwareUpdateWorkflow": true
+      "disableSoftwareUpdateWorkflow": true,
+      "utilizeSOFAFeed": true
     },
     "osVersionRequirements": [
       {
         "aboutUpdateURLs": [
           {
             "_language": "en",
-            "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
+            "aboutUpdateURL": "https://support.apple.com/en-gb/HT214119"
           }
         ],
-        "requiredInstallationDate": "2024-06-21T09:30:00Z",
-        "requiredInstallationDate": "2024-06-25T09:30:00Z",
-        "requiredMinimumOSVersion": "14.5",
+        "requiredInstallationDate": "2024-08-06T09:30:00Z",
+        "requiredMinimumOSVersion": "14.6",
         "targetedOSVersionsRule": "default"
       }
     ],
@@ -47,10 +47,10 @@
       "updateElements": [
         {
           "_language": "en_US",
-          "mainHeader": "Update to macOS Sonoma 14.5",
+          "mainHeader": "Update to macOS Sonoma 14.6",
           "mainContentHeader": "Your device will restart during this update",
           "subHeader": "Kindly scroll down to view the complete steps and description",
-          "actionButtonText": "Upgrade Device",
+          "actionButtonText": "Update Device",
           "mainContentText": "Security is of paramount importance in the Briteland, and with this in mind, Britetech have identified this Mac as not yet updated to the current and correct version of the macOS operating system.\n\nThis Mac must be updated to the current version to ensure that our IT infrastructure and security protocols are adhered to.\nUpdating should take no more than 10 or 15 minutes (likely less) and will not affect any of your data or settings in any way.\n\nYou may defer the update of macOS on this device, but 36 hours after this notification, an update will be enforced by Britetech, and your device will update itself and restart.\n\nAn alternate option is to defer the update, and then at the end of your business day, or during your lunch period, you can update manually, which only takes a few clicks (see below):\n\n1. Save all your work, and close all open windows.\n2. Navigate to System Settings (via the Finder window or by clicking the Apple icon at the top left of your screen).\n3. In System Settings, navigate to General > Software Update and click on ‘Update Now’, and your device will update itself to the latest version (including a restart).\n\nThank you for your time and help in ensuring that the Britespace remains at its most secure.",
           "customDeferralButtonText": "Custom",
           "informationButtonText": "More Info",
