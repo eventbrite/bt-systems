@@ -1,0 +1,54 @@
+{
+    "optionalFeatures": {
+        "honorFocusModes": true,
+        "acceptableUpdatePreparingUsage": true,
+        "asynchronousSoftwareUpdate": true,
+        "aggressiveUserExperience": true,
+        "attemptToFetchMajorUpgrade": false,
+        "acceptableScreenSharingUsage": true,
+        "acceptableAssertionUsage": true,
+        "aggressiveUserFullScreenExperience": true,
+        "acceptableCameraUsage": true,
+        "utilizeSOFAFeed": true
+    },
+    "userInterface": {
+        "showDeferralCount": true,
+        "showActivelyExploitedCVEs": true,
+        "showRequiredDate": true,
+        "showDaysRemainingToUpdate": true,
+        "iconLightPath": "/Library/Application Support/EVB/EB_orange_512x512.png",
+        "iconDarkPath": "/Library/Application Support/EVB/EB_orange_512x512.png",
+        "updateElements": [
+            {
+                "_language": "en",
+		"informationButtonText": "More Info",
+                "mainContentHeader": "Your device will restart during this update.",
+                "mainHeader": "Upgrade to macOS Sequoia 15",
+                "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
+                "subHeader": "Kindly scroll down to view the complete steps and description",
+                "mainContentText": "Security is of paramount importance in the Briteland, and with this in mind, Britetech have identified this Mac as not yet updated to the current and correct version of the macOS operating system.\n\nThis Mac must be updated to the current version to ensure that our IT infrastructure and security protocols are adhered to. Updating should take no more than 30 or 35 minutes (likely less) and will not affect any of your data or settings in any way.\n\nYou may defer the update of macOS on this device, but once the cutoff date for your computer (visible on the left hand side of your screen) has been reached, an update will be enforced by Britetech, and your device will update itself and restart.\n\nAn alternate option is to defer the update, and then at the end of your business day, or during your lunch period, you can update manually, which only takes a few clicks (see below):\n\n1. Save all your work, and close all open windows.\n2. Navigate to System Settings (via the Finder window or by clicking the Apple icon at the top left of your screen).\n3. In System Settings, navigate to General > Software Update and click on 'Update Now', and your device will update itself to the latest version (including a restart).\n\nThank you for your time and help in ensuring that the Britespace remains at its most secure."          }
+        ]
+    },
+    "osVersionRequirements": [
+        {
+            "requiredMinimumOSVersion": "latest-supported",
+            "standardMajorUpgradeSLA": 38,
+            "minorVersionRecalculationThreshold": 1,
+	    "aboutUpdateURL": "https://support.apple.com/en-us/121238"
+        }
+    ],
+    "userExperience": {
+        "allowUserQuitDeferrals": true,
+        "allowLaterDeferralButton": true,
+        "randomDelay": false,
+        "nudgeMajorUpgradeEventLaunchDelay": 1,
+        "nudgeMinorUpdateEventLaunchDelay": 1,
+      	"approachingRefreshCycle": 86400,
+      	"approachingWindowTime": 7200,
+      	"elapsedRefreshCycle": 900,
+      	"imminentRefreshCycle": 3600,
+      	"imminentWindowTime": 24,
+      	"initialRefreshCycle": 18000,
+        "allowedDeferrals": 24
+    }
+}
