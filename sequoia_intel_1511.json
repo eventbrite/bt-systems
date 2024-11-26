@@ -9,7 +9,7 @@
       "acceptableAssertionUsage": true,
       "aggressiveUserFullScreenExperience": true,
       "acceptableCameraUsage": true,
-      "utilizeSOFAFeed": false
+      "utilizeSOFAFeed": true
   },
   "userInterface": {
       "showDeferralCount": true,
