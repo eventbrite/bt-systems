@@ -9,7 +9,7 @@
       "acceptableAssertionUsage": true,
       "aggressiveUserFullScreenExperience": true,
       "acceptableCameraUsage": true,
-      "utilizeSOFAFeed": true
+      "utilizeSOFAFeed": false
   },
   "userInterface": {
       "showDeferralCount": true,
@@ -35,7 +35,7 @@
           "activelyExploitedCVEsMajorUpgradeSLA": 7,
           "activelyExploitedCVEsMinorUpdateSLA": 2,
           "standardMinorUpdateSLA": 9,
-          "minorVersionRecalculationThreshold": 2,
+          "minorVersionRecalculationThreshold": 30,
     "aboutUpdateURL": "https://support.apple.com/en-us/121753"
       }
   ],
