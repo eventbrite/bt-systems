@@ -41,7 +41,7 @@
       "allowLaterDeferralButton": true,
       "randomDelay": false,
       "nudgeMajorUpgradeEventLaunchDelay": 1,
-      "nudgeMinorUpdateEventLaunchDelay": 1,
+      "nudgeMinorUpdateEventLaunchDelay": 15,
       "approachingRefreshCycle": 86400,
       "approachingWindowTime": 7200,
       "elapsedRefreshCycle": 900,
