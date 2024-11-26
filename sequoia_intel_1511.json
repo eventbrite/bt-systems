@@ -32,6 +32,9 @@
   "osVersionRequirements": [
       {
           "requiredMinimumOSVersion": "latest-supported",
+          "activelyExploitedCVEsMajorUpgradeSLA": 7,
+          "activelyExploitedCVEsMinorUpdateSLA": 2,
+          "standardMinorUpdateSLA": 9,
           "minorVersionRecalculationThreshold": 2,
     "aboutUpdateURL": "https://support.apple.com/en-us/121753"
       }
@@ -40,8 +43,6 @@
       "allowUserQuitDeferrals": true,
       "allowLaterDeferralButton": true,
       "randomDelay": false,
-      "nudgeMajorUpgradeEventLaunchDelay": 1,
-      "nudgeMinorUpdateEventLaunchDelay": 7,
       "approachingRefreshCycle": 86400,
       "approachingWindowTime": 7200,
       "elapsedRefreshCycle": 900,
