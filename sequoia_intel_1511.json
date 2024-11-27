@@ -33,7 +33,6 @@
       {
           "requiredMinimumOSVersion": "latest-supported",
           "activelyExploitedCVEsMajorUpgradeSLA": 7,
-          "activelyExploitedCVEsMinorUpdateSLA": 2,
           "standardMinorUpdateSLA": 9,
           "minorVersionRecalculationThreshold": 30,
     "aboutUpdateURL": "https://support.apple.com/en-us/121753"
